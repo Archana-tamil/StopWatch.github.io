@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #008060;
+  }
+  img{
+    height:15em;
+    width: 15em;;
+  }
+  
+  .stopwatch {
+    text-align: center;
+  }
+  
+  #display {
+    font-size: 5em;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    font-size: 1em;
+    padding: 8px 16px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
